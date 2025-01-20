@@ -53,8 +53,9 @@
 
 ## Step 4. Visualize the date received.
 
-&emsp;&emsp;The received data (diameter) is processed in the callback function, `handleMessage(topic, data_string)`.
-
+&emsp;&emsp;The received data (diameter) is processed in the callback function, `handleMessage(topic, data_string)`.  
 &emsp;&emsp;The recorded diameter is plotted over time. And the latest corresponding circle is updated.
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/f5696300-2282-46c1-9034-531660d6f795)
